@@ -1,2 +1,5 @@
-title: My Awesome Site
+title: Gibb's Boson
 theme: jekyll-theme-minimal
+logo: /assets/logo.png
+plugins:
+  - jekyll-feed
